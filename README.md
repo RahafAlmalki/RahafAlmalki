@@ -42,9 +42,9 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-EC407A?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F06292?style=flat-square)
 
-**Other**
+**Soft Skills**
 
-Data Visualization · Data Manipulation · Technical Writing · Team Leadership · Analytical Thinking
+Team Leadership · Technical Writing · Analytical Thinking · Problem Solving · Communication
 
 ---
 
