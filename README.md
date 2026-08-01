@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Rahaf Almalki 👋</h1>
-<h3 align="center">AI Graduate | Machine Learning & Computer Vision | Python</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahaf-almalki-54bbb1273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9C27B0&center=true&vCenter=true&width=550&lines=AI+Graduate+%7C+Machine+Learning+%26+Computer+Vision;Building+real-time+AI+systems+with+Python;Turning+data+into+impactful+solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahaf-almalki-54bbb1273"><img src="https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,25 +25,29 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 ### 🛠️ Skills
 
 **Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-9C27B0?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-BA68C8?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-CE93D8?style=flat-square&logo=jupyter&logoColor=white)
 
 **AI / ML**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E90FF?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-9C27B0?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4081?style=flat-square)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9C27B0?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-AB47BC?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E24AA?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-D81B60?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-EC407A?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F06292?style=flat-square)
 
 **Other**
+
 Data Visualization · Data Manipulation · Technical Writing · Team Leadership · Analytical Thinking
 
 ---
 
 ### 🚀 Featured Projects
 
+- 🤝 **[Sanad (سِناد)](https://github.com/RahafAlmalki/Senad-Project)** — AI system that helps Holy Makkah Municipality prioritize municipal service execution across neighborhoods, using ML models (Random Forest, XGBoost) to rank reports by risk, location, population, and volume.
 - 🧒 **[Yaqidh](https://github.com/Yaqidh-Project/Yaqidh)** — AI-powered child safety monitoring system using YOLOv8s ONNX models to detect falls and physical violence, send real-time alerts, and generate incident reports and analytics for caregivers.
 - 👗 **[WearScanner](https://github.com/RenadAlh/WearScanner)** — CNN-based classifier trained on Fashion-MNIST that pairs image predictions with automated styling tips, occasion advice, and accessory recommendations, with an interactive Colab demo.
 - 💻 **[BTCS-Project](https://github.com/AliyahAlabdali/BTCS-Project)** — In-browser diagnostic tool that classifies brain tumors (Glioma, Meningioma, Pituitary, No Tumor) from MRI scans using a YOLOv8/ONNX Runtime model, with real-time client-side inference and no data sent to a server.
