@@ -18,7 +18,7 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 - 💼 Digital Transformation Agency Intern @ Makkah Municipality
 - 🔭 Currently exploring Machine Learning, Computer Vision & Generative AI
 - 🌱 Learning: Deep Learning, NLP, and AI-assisted software development
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rahaf-almalki-54bbb1273)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rahaf-almalki-54bbb1273) or via [Email](rrahafalmalki@gmail.com)
 
 ---
 
