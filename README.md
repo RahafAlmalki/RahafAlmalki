@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rahaf Almalki 👋</h1>
+<h1 align="center">Hi, I'm Rahaf Almalki 💕👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9C27B0&center=true&vCenter=true&width=550&lines=AI+Graduate+%7C+Machine+Learning+%26+Computer+Vision;Building+real-time+AI+systems+with+Python;Turning+data+into+impactful+solutions" alt="Typing SVG" />
