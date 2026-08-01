@@ -47,11 +47,10 @@ Data Visualization · Data Manipulation · Technical Writing · Team Leadership 
 
 ### 🚀 Featured Projects
 
-- 🤝 **[Sanad (سِناد)](https://github.com/RahafAlmalki/Senad-Project)** — AI system that helps Holy Makkah Municipality prioritize municipal service execution across neighborhoods, using ML models (Random Forest, XGBoost) to rank reports by risk, location, population, and volume.
 - 🧒 **[Yaqidh](https://github.com/Yaqidh-Project/Yaqidh)** — AI-powered child safety monitoring system using YOLOv8s ONNX models to detect falls and physical violence, send real-time alerts, and generate incident reports and analytics for caregivers.
+- 🤝 **[Sanad (سِناد)](https://github.com/RahafAlmalki/Senad-Project)** — AI system that helps Holy Makkah Municipality prioritize municipal service execution across neighborhoods, using ML models (Random Forest, XGBoost) to rank reports by risk, location, population, and volume.
 - 👗 **[WearScanner](https://github.com/RenadAlh/WearScanner)** — CNN-based classifier trained on Fashion-MNIST that pairs image predictions with automated styling tips, occasion advice, and accessory recommendations, with an interactive Colab demo.
 - 💻 **[BTCS-Project](https://github.com/AliyahAlabdali/BTCS-Project)** — In-browser diagnostic tool that classifies brain tumors (Glioma, Meningioma, Pituitary, No Tumor) from MRI scans using a YOLOv8/ONNX Runtime model, with real-time client-side inference and no data sent to a server.
-- 📄 **[Superior](https://github.com/G12Superior/Superior)** — Technical documentation project featuring a Wiki-based user guide for a simulated university management system.
 
 ---
 
