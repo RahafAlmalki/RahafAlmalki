@@ -30,6 +30,7 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,figma,git,github,vscode,opencv,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Jupyter-0D9488?style=flat-square&logo=jupyter&logoColor=white" height="48"/>
 </p>
 
 **AI / ML**
