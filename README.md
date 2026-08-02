@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0D9488&center=true&vCenter=true&width=550&lines=AI+Graduate+%7C+Machine+Learning+%26+Computer+Vision;Building+real-time+AI+systems+with+Python;Turning+data+into+impactful+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0D9488&center=true&vCenter=true&width=550&lines=AI+Graduate+%7C+Machine+Learning+%26+Computer+Vision;Building+AI+systems+and+smart+solutions;Turning+data+into+impactful+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,figma,git,github,vscode,opencv,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Jupyter-0D9488?style=flat-square&logo=jupyter&logoColor=white" height="48"/>
+  <img src="jupyter logo.png" height="48"/>
 </p>
 
 **AI / ML**
