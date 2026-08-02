@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rahaf Almalki 💕👋</h1>
+<h1 align="center">Hi, I'm Rahaf Almalki 💕</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9C27B0&center=true&vCenter=true&width=550&lines=AI+Graduate+%7C+Machine+Learning+%26+Computer+Vision;Building+real-time+AI+systems+with+Python;Turning+data+into+impactful+solutions" alt="Typing SVG" />
@@ -6,32 +6,29 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahaf-almalki-54bbb1273"><img src="https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rrahafalmalki@gmail.com"><img src="https://img.shields.io/badge/Email-D81B60?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 Artificial Intelligence graduate with a solid foundation in programming and AI concepts, and a strong interest in **Machine Learning**, **Deep Learning**, **Computer Vision**, and emerging AI technologies. Through academic projects and hands-on training, I've built problem-solving, analytical, and technical skills — and I'm always looking to learn more, get practical experience, and contribute to impactful AI solutions.
 
-- 🎓 AI graduate, Umm Al-Qura University
-- 💼 Digital Transformation Agency Intern @ Makkah Municipality
-- 🔭 Currently exploring Machine Learning, Computer Vision & Generative AI
-- 🌱 Learning: Deep Learning, NLP, and AI-assisted software development
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rahaf-almalki-54bbb1273) or via [Email](mailto:rrahafalmalki@gmail.com)
+- AI graduate, Umm Al-Qura University
+- Digital Transformation Agency Intern @ Makkah Municipality
+- Currently exploring Machine Learning, Computer Vision & Generative AI
+- Learning: Deep Learning, NLP, and AI-assisted software development
 
 ---
 
-### 🛠️ Skills
+### Skills
 
-**Languages & Tools**
+**Core Stack**
 
-![Python](https://img.shields.io/badge/Python-9C27B0?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-BA68C8?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-CE93D8?style=flat-square&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-8E24AA?style=flat-square&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-AB47BC?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-D81B60?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,tailwind,fastapi,postgres,vite,figma,git,github,vscode,docker,opencv,tensorflow,pytorch" />
+</p>
 
 **AI / ML**
 
@@ -48,15 +45,62 @@ Team Leadership · Technical Writing · Analytical Thinking · Problem Solving �
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-- 🧒 **[Yaqidh](https://github.com/Yaqidh-Project/Yaqidh)** — AI-powered child safety monitoring system using YOLOv8s ONNX models to detect falls and physical violence, send real-time alerts, and generate incident reports and analytics for caregivers.
-- 💻 **[BTCS-Project](https://github.com/AliyahAlabdali/BTCS-Project)** — In-browser diagnostic tool that classifies brain tumors (Glioma, Meningioma, Pituitary, No Tumor) from MRI scans using a YOLOv8/ONNX Runtime model, with real-time client-side inference and no data sent to a server.
-- 🤝 **[Sanad (سِناد)](https://github.com/RahafAlmalki/Senad-Project)** — AI system that helps Holy Makkah Municipality prioritize municipal service execution across neighborhoods, using ML models (Random Forest, XGBoost) to rank reports by risk, location, population, and volume.
-- 👗 **[WearScanner](https://github.com/RenadAlh/WearScanner)** — CNN-based classifier trained on Fashion-MNIST that pairs image predictions with automated styling tips, occasion advice, and accessory recommendations, with an interactive Colab demo. 
+**[Yaqidh (يـقِــظ)](https://github.com/Yaqidh-Project/Yaqidh)**
+AI-powered child safety monitoring system using YOLOv8s ONNX models to detect falls and physical violence, send real-time alerts, and generate incident reports and analytics for caregivers.
+<p>
+  <img src="https://img.shields.io/badge/React-9C27B0?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-AB47BC?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-8E24AA?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-D81B60?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-EC407A?style=flat-square&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RoboFlow-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-9C27B0?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
+
+**[BTCS-Project](https://github.com/AliyahAlabdali/BTCS-Project)**
+In-browser diagnostic tool that classifies brain tumors (Glioma, Meningioma, Pituitary, No Tumor) from MRI scans using a YOLOv8/ONNX Runtime model, with real-time client-side inference and no data sent to a server.
+<p>
+  <img src="https://img.shields.io/badge/React-9C27B0?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-AB47BC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-D81B60?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-EC407A?style=flat-square&logo=onnx&logoColor=white"/>
+</p>
+
+**[Sanad (سِناد)](https://github.com/RahafAlmalki/Senad-Project)**
+AI system that helps Holy Makkah Municipality prioritize municipal service execution across neighborhoods, using ML models to rank reports by risk, location, population, and volume.
+<p>
+  <img src="https://img.shields.io/badge/Figma-9C27B0?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-AB47BC?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-D81B60?style=flat-square"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC407A?style=flat-square"/>
+</p>
+
+**[WearScanner](https://github.com/RenadAlh/WearScanner)**
+CNN-based classifier trained on Fashion-MNIST that pairs image predictions with automated styling tips, occasion advice, and accessory recommendations, with an interactive Colab demo.
+<p>
+  <img src="https://img.shields.io/badge/Python-9C27B0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-AB47BC?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-D81B60?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
+
 ---
 
-### 📜 Certifications
+### Coursework & Fundamentals
+
+**[California Housing — Classification & Regression](https://github.com/RahafAlmalki/California-Housing-ML-Assignment)**
+EDA, preprocessing, and visualization on the California Housing dataset, followed by a Logistic Regression classifier (84.88% accuracy, 0.93 ROC-AUC) and Polynomial Regression model.
+<p>
+  <img src="https://img.shields.io/badge/Python-9C27B0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-AB47BC?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-D81B60?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-EC407A?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+### Certifications
 
 - Global Professional AI Bootcamp — *Neon Edu* (2026)
 - Machine Learning with Python — *IBM* (2026)
@@ -71,4 +115,4 @@ Team Leadership · Technical Writing · Analytical Thinking · Problem Solving �
 
 ---
 
-<p align="center"><i>Open to opportunities in AI, Machine Learning, and Computer Vision 🚀</i></p>
+<p align="center"><i>Open to opportunities in AI, Machine Learning, and Computer Vision</i></p>
