@@ -27,7 +27,7 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 **Core Stack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,tailwind,fastapi,postgres,vite,figma,git,github,vscode,docker,opencv,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,figma,git,github,vscode,opencv,tensorflow,pytorch" />
 </p>
 
 **AI / ML**
@@ -97,21 +97,6 @@ EDA, preprocessing, and visualization on the California Housing dataset, followe
   <img src="https://img.shields.io/badge/Pandas-D81B60?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-EC407A?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
-
----
-
-### Certifications
-
-- Global Professional AI Bootcamp — *Neon Edu* (2026)
-- Machine Learning with Python — *IBM* (2026)
-- Code Generation and Optimization Using IBM Granite — *IBM* (2025)
-- IBM Granite Models for Software Development — *IBM* (2025)
-- Use Generative AI for Software Development — *IBM SkillsBuild* (2025)
-- Artificial Intelligence Fundamentals — *IBM* (2025)
-- Future Technologies in Digital Governance — *Digital Government Authority* (2025)
-- Leadership and Innovation in the Government Sector — *Digital Government Authority* (2025)
-- Supply Chain Analytics in Python — *DataCamp* (2024)
-- Data Manipulation with pandas — *DataCamp* (2024)
 
 ---
 
