@@ -26,9 +26,20 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 
 **Core Stack**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,figma,git,github,vscode,opencv,tensorflow,pytorch" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><sub>FastAPI</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br><sub>Figma</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br><sub>OpenCV</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br><sub>TensorFlow</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br><sub>PyTorch</sub></td>
+</tr>
+</table>
 
 **AI / ML**
 
