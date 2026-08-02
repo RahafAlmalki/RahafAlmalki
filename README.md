@@ -30,7 +30,7 @@ Artificial Intelligence graduate with a solid foundation in programming and AI c
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,figma,git,github,vscode,opencv,tensorflow,pytorch" />
-  <img src="assets/jupyter-logo.png" height="48"/>
+  <img src="jupyter-logo.png" height="48"/>
 </p>
 
 **AI / ML**
@@ -100,8 +100,6 @@ EDA, preprocessing, and visualization on the California Housing dataset, followe
   <img src="https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-0D9488?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
-
----
 
 ---
 
